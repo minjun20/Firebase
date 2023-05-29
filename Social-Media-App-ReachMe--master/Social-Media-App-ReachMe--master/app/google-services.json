@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "598513502717",
+    "project_id": "mosyrooma",
+    "storage_bucket": "mosyrooma.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598513502717:android:f0cb97763ee71616d03194",
+        "android_client_info": {
+          "package_name": "com.example.reachme"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcS_6JvQ6g3MEEdA4DIjUlE-IPn-2vfRE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
